@@ -1,1 +1,1 @@
-# ReClickPrivatePolicy
+# ReClickPrivacyPolicy
