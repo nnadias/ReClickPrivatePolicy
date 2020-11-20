@@ -1,3 +1,5 @@
+## ReClick
+
 #### Privacy Policy
 
 Nadia Manoh built the ReClick app as a Free app. This SERVICE is provided by Nadia Manoh at no cost and is intended for use as is.
